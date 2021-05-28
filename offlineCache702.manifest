@@ -1,8 +1,9 @@
-CACHE MANIFEST 
-# v2.5.5 Self-Host 
-
+CACHE MANIFEST
+# v1.0 : 09-03-2021
+ 
 index.html
 int64.js
+offlineCache702.manifest
 payloads.js
 ps4.js
 rop.js
