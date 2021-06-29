@@ -598,7 +598,7 @@ function sprayStringImpl(start, end) {
 }
 
 function go() {
-	if(localStorage.is702dCached){
+	if(localStorage.is702Cached){
 		/* Init spray */
 		sprayHTMLTextArea();
 		g_input = input1;
