@@ -1,7 +1,7 @@
 @echo off
 
 echo CACHE MANIFEST > test0.txt
-echo # random: %date% >> test0.txt
+echo # %date% >> test0.txt
 echo. >> test0.txt
 echo CACHE: >> test0.txt
 
